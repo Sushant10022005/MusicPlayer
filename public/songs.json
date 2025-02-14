@@ -1,0 +1,67 @@
+[
+    {
+      "title": "Death Bed",
+      "artist": "Powfu",
+      "album": "poems of the past",
+      "release-year": 2020,
+      "artwork": "https://samplesongs.netlify.app/album-arts/death-bed.jpg",
+      "url": "https://samplesongs.netlify.app/Death%20Bed.mp3",
+      "id": "1"
+    },
+    {
+      "title": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "album": "origins",
+      "release-year": 2018,
+      "artwork": "https://samplesongs.netlify.app/album-arts/bad-liar.jpg",
+      "url": "https://samplesongs.netlify.app/Bad%20Liar.mp3",
+      "id": "2"
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "album": "Faded",
+      "release-year": 2019,
+      "artwork": "https://samplesongs.netlify.app/album-arts/faded.jpg",
+      "url": "https://samplesongs.netlify.app/Faded.mp3",
+      "id": "3"
+    },
+    {
+      "title": "Hate Me",
+      "artist": "Ellie Goulding",
+      "album": "Brightest Blue",
+      "release-year": 2019,
+      "artwork": "https://samplesongs.netlify.app/album-arts/hate-me.jpg",
+      "url": "https://samplesongs.netlify.app/Hate%20Me.mp3",
+      "id": "4"
+    },
+    {
+      "title": "Solo",
+      "artist": "Clean Bandit",
+      "album": "What is love?",
+      "release-year": 2018,
+      "artwork": "https://samplesongs.netlify.app/album-arts/solo.jpg",
+      "url": "https://samplesongs.netlify.app/Solo.mp3",
+      "id": "5"
+    },
+    {
+      "title": "Without Me",
+      "artist": "Halsey",
+      "album": "Manic",
+      "release-year": 2020,
+      "artwork": "https://samplesongs.netlify.app/album-arts/without-me.jpg",
+      "url": "https://samplesongs.netlify.app/Without%20Me.mp3",
+      "id": "6"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "release_year": 1975,
+      "artwork": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+      "genre": "Rock",
+      "url": "https://jmp.sh/s/EDwzGNXKqDolqOsY5AoX",
+      "id": "7"
+  }
+    
+  ]

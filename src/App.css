@@ -1,0 +1,108 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(120deg, #2c3e50, #4ca1af);
+  background-size: 200% 200%;
+  animation: gradient 5s ease infinite;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+}
+
+.player {
+  background-color: #34495e;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title h2 {
+  font-size: 1.8em;
+  margin: 0.5em 0;
+  color: #ecf0f1;
+}
+
+.title h3 {
+  font-size: 1.2em;
+  margin: 0.3em 0;
+  color: #bdc3c7;
+}
+
+.player img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.player img:hover {
+  transform: scale(1.05);
+}
+
+.audio-container {
+  margin: 15px 0;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.controls button {
+  background-color: #1abc9c;
+  border: none;
+  color: white;
+  padding: 12px;
+  font-size: 1.5em;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.controls button:hover {
+  background-color: #16a085;
+  transform: scale(1.1);
+}
+
+@media (max-width: 600px) {
+  .player {
+    padding: 15px;
+  }
+
+  .title h2 {
+    font-size: 1.5em;
+  }
+
+  .title h3 {
+    font-size: 1.1em;
+  }
+
+  .controls button {
+    padding: 10px;
+    font-size: 1.2em;
+  }
+}
